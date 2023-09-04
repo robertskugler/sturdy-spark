@@ -1,2 +1,2 @@
 # sturdy-spark
-yest repo
+test repo
